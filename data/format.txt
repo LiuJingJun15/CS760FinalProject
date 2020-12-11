@@ -1,0 +1,1 @@
+Date, County, new case ratio (new case in county/new case in state), temperature, Dew point, Humidity, wind speed, pressure, precipitation
