@@ -1,8 +1,6 @@
 # CS760FinalProject
 Usage:
 
-Navigate to ./code folder
-
 Linear Regression Method:
 make plot with state data: linear_reg_plot_state()
 10-fold cross validation with state data: accu, dev = linear_reg_cv_state()
