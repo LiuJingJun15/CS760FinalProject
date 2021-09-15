@@ -1,4 +1,6 @@
 # CS760FinalProject
+
+This is the final project for CS760: Machine Learning
 Usage:
 
 Linear Regression Method:
