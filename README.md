@@ -1,6 +1,9 @@
 # CS760FinalProject
 
-This is the final project for CS760: Machine Learning
+This is the final project for CS760: Machine Learning in Fall 20
+
+This project studied whether the transmission of Covid-19 is related to weather condition
+
 Usage:
 
 Linear Regression Method:
